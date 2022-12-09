@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+}
+h1 {
+    color: gray;
+    background-color: midnightblue;
+    text-align: center;
+    border: 3px solid black;
+    
+}
+h2 {
+    color: yellow;
+    text-align: right;
+}
+h3{
+    color:rebeccapurple;
+
+}
+.internet {
+    border: 3px solid black;
+    background-color:lightgray;
+}
+.slider {
+    margin: auto;
+    width: 50%;
+    overflow: hidden;
+}
+}
+.img-box {
+    width: 400px;
+    height: 350px;
+    display flex;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    background: #888;
+    padding: 10px 30px;
+    font-size: 20px;
+    color: #ddd;
+    cursor: pointer;
+    margin: 10px auto;
+}
+table, th, td {
+    border: 1px solid black;
+    background-color:lightgray;
+    border-block-color:orange;
+}
